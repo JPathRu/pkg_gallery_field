@@ -1,6 +1,6 @@
 # Package Gallery Field for Joomla
 
-© 2018 @Arkadiy-Sedelnikov. All rights reserved.
+© 2018 [Arkadiy Sedelnikov](https://github.com/Arkadiy-Sedelnikov). All rights reserved.
 
 ### EN
 
