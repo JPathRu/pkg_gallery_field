@@ -4,7 +4,22 @@
 
 ### EN
 
-This plugin lets you create new fields of type 'media' in any extensions where custom fields are supported.
+This plugin allows you to create new fields of type "Gallery" in the extension, where he implemented the custom field.
+
+**Scope:**
+
+- Fill in the list of images from the folder.
+- Specify a title (attribute `alt=""`) for each image.
+- Specify an additional description for each image.
+- Specify any html attributes for each image.
+- Sort the list of images by title.
+- Manually sort the list of images.
+
+**Notes:**
+
+- The field plugin does not generate thumbnail images.
+- The field plugin does not contain tools for full-size image viewing (lightbox).
+- The plugin template fields are made-up under the main front-template Joomla3 Protostar, based on bootstrap 2. For your template, please use the field template override in your main template and custom layout according to your main template.
 
 ---
 
