@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="file" method="upgrade">
+    <name>Gallery Fields Media Ajax Controller</name>
+    <author>Arkadiy Sedelnikov</author>
+    <creationDate>January 2018</creationDate>
+    <copyright>© 2018 Arkadiy Sedelnikov. All rights reserved.</copyright>
+    <license>GNU General Public License version 3 or later; see http://www.gnu.org/licenses/gpl-3.0.txt</license>
+    <authorEmail>a.sedelnikov@gmail.com</authorEmail>
+    <authorUrl>https://argens.ru</authorUrl>
+    <version>1.0.0</version>
+    <description>Gallery Fields Media Ajax Controller</description>
+    <fileset>
+        <files folder="controller" target="administrator/components/com_media/controllers">
+            <filename>ajax.php</filename>
+        </files>
+    </fileset>
+</extension>
