@@ -1,5 +1,7 @@
 # Package Gallery Field for Joomla
 
+© 2018 @Arkadiy-Sedelnikov. All rights reserved.
+
 ### EN
 
 This plugin lets you create new fields of type 'media' in any extensions where custom fields are supported.
