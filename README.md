@@ -1,6 +1,7 @@
 # Package Gallery Field for Joomla
 
 © 2018 [Arkadiy Sedelnikov](https://github.com/Arkadiy-Sedelnikov). All rights reserved.
+![Github Releases](https://img.shields.io/github/downloads/AlekVolsk/pkg_gallery_field/latest/total.svg)
 
 ### EN
 
